@@ -1,0 +1,1 @@
+I'm just sharing my solutions for the practise problems from LeetCode. Each folder is named based on the problems name and it contains at least a Python script of the solution and an optional markdown for my personal notes.
